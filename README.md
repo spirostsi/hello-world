@@ -1,6 +1,4 @@
-# hello-world
-Diving to an new ocean
-Hi humans
+# hello-worΙΛΔ
+Hi humanΣ....
 
-Trying to understand full of questions..
-Still struggling..
+Bye humans
