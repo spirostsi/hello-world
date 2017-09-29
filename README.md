@@ -1,4 +1,4 @@
-# hello-worΙΛΔ
-Hi humanΣ....
+# hello-world
+Hi humans
 
 Bye humans
